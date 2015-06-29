@@ -1,0 +1,37 @@
+body{
+	background-color:yellow;
+}
+
+#div1{
+	top:100px;
+	height:20px;
+	width:200px;
+	background-color:#AAA9A9;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#div2{
+	
+	position: absolute;
+	top:40px;
+	left:300px;
+
+	height:300px;
+	width:600px;
+	background-color:#AAA9A9;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#div3{
+	position: absolute;
+	top:365px;
+	left:300px;
+	height:100px;
+	width:800px;
+	background-color:#AAA9A9;
+	margin-left: auto;
+	margin-right: auto;
+}
